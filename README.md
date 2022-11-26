@@ -2,6 +2,7 @@
 
 ## Description
 This is an educational project on the basics of DevOps. The application shows the time in Moscow.
+In the dev[i] branches you can see the implementation steps.
 
 ## How to use:
 
