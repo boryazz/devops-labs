@@ -11,4 +11,4 @@ This is an educational project on the basics of DevOps. The application shows th
 
 ## Contact with me:
 
-< tg: @borya_zz
+> tg: @borya_zz
