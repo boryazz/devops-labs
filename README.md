@@ -10,5 +10,4 @@ In the dev[i] branches you can see the implementation steps.
 2. Type `python3 main.py` in the terminal
 3. Go to `127.0.0.1:8080` and you can see the current time in Moscow.
 
-## Contact with me:
 
