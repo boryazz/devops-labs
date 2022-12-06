@@ -12,4 +12,3 @@ In the dev[i] branches you can see the implementation steps.
 
 ## Contact with me:
 
-> tg: @borya_zz
